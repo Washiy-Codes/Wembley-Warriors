@@ -27,6 +27,6 @@ Built with **HTML, CSS, and JavaScript**, this project showcases object manipula
 
 ---
 
-## 🌟 Example Features
-```js
-players.filter((player) => player.position === "forward");
+---
+## 🖼️ Preview
+[View Live Project]( https://washiy-codes.github.io/Wembly-Warriors/)
