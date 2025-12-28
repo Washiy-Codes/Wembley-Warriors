@@ -5,6 +5,11 @@ Built with **HTML, CSS, and JavaScript**, this project showcases object manipula
 
 ---
 
+## 🖼️ Preview
+[View Live Project]( https://washiy-codes.github.io/Wembley-Warriors/)
+
+---
+
 ## 🚀 Features
 - 🧠 Display team details such as name, sport, year, and head coach  
 - 🎯 Filter players by position (Forward, Midfielder, Defender, Goalkeeper)  
