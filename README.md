@@ -26,7 +26,3 @@ Built with **HTML, CSS, and JavaScript**, this project showcases object manipula
 3. Each player is displayed as a card showing their position, number, and nickname (if any).  
 
 ---
-
----
-## 🖼️ Preview
-[View Live Project]( https://washiy-codes.github.io/Wembley-Warriors/)
